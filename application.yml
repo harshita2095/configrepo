@@ -1,0 +1,10 @@
+my:
+  greeting: Hello World from config server
+  list:
+      values: One, Two, Three, Four
+
+db:
+  connection: connection-string-her-from-config-server
+  host: 127.0.01
+  port: 1200
+
